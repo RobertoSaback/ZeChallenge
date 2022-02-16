@@ -18,7 +18,7 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Seccond part of the Challenge - Test Suit</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Last Considerations/a>
   </p>
 </p>
 
@@ -30,14 +30,10 @@
   <ol>
     <li>
       <a href="#First-part">First part of the challenge</a>
-      <ul>
-        <li><a href="#seccond-part">Seccond part of the challenge</a></li>
-      </ul>
-    </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Seccond-Part">Seccond part of the challenge</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#Test-Suit">Test suit</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -57,15 +53,14 @@
 
 Critical Flows
 
-Critical flow n01
 <br>
   *<strong>Product flow</strong>: This flows refers to the movement of the goods from the supplier to the customer and it would be impossible without a product selection stage to complete the service. The product flow play a key role in moving products through this logistic chain.In fact logistics take the primary onus of an e-commerce entity. Efficiency and service usually reflects this flow as the greatest value for the company since then efficiency  creates a value to the customers , suppliers and stakeholders and it creates visibility into a company.
-  <br>
-  Critical flow n02<br>
-  *<strong>Cash flow</strong>:
+  <br><br>
+  *<strong>Cash flow</strong>: Cash flow: The core idea behind every business is increase profits and value. For this reason a reliable cash flow ensures optimum user experience, consumer safety and fidelity to the future new customers. It ensure that the customer can trust on the company to share sensitive information and the company can trust that all information that comes from the client side are reliable. 
+    <br><br>
+*<strong>Information Flow</strong>: This flow happens in both the directions and it is necessary for the proper functioning of all the activities in an E-Commerce model. Customers ask for information and likewise the retailer also requires information from the customer. Since, the process is basically online, this flow is important for a smooth transaction and seamless working of the e-commerce.
 
-
-### Built With
+### Seccond Part
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
