@@ -34,8 +34,8 @@
       <a href="#Seccond-Part">Seccond part of the challenge</a>
       <ul>
         <li><a href="#Setting-Up">Setting the environment</a></li>
-        <li><a href="#Test Suit">Test Suit</a></li>
-        <li><a href="#Why Python">Why Python</a></li>
+        <li><a href="#Test-Suit">Test Suit</a></li>
+        <li><a href="#Why-Python">Why Python</a></li>
       </ul>
     <li><a href="#Final-Considerations">Final Considerations</a></li>
 
