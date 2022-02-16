@@ -76,9 +76,11 @@ In that way you will install selenium dependencies in your local machine and the
 
 | Test Case ID | TC Description | Pre Condition | Test Data | Post Condition | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- |  --- |  --- |  --- |  --- |
-| `git status` | Lista de todos os arquivos *modificados ou novos* |
-| `git diff` | Mostra as diferenças do arquivo que **não foram** preparadas |
-
+| `TC001` | Lista de todos os arquivos *modificados ou novos* |
+| `TC002` | Mostra as diferenças do arquivo que **não foram** preparadas |
+| `TC003` | Mostra as diferenças do arquivo que **não foram** preparadas |
+| `TC004` | Mostra as diferenças do arquivo que **não foram** preparadas |
+| `TC005` | Mostra as diferenças do arquivo que **não foram** preparadas |
 
 ## Why-Python
 
