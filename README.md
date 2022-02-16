@@ -73,6 +73,8 @@ With Pip installed you should install selenium modules:<br>
 In that way you will install selenium dependencies in your local machine and then you can use your shell to read the files.
 
 ## Test-Suit
+<br><br>
+To this part of the challenge I've created 5 test cases focusing on the <strong>Product Flow</strong> scenario. This decisions 
 
 | Test Case ID | TC Summary  | Prerequisites | Test Script | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- | --- |  --- |  --- |
