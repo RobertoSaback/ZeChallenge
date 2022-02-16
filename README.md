@@ -33,7 +33,7 @@
     <li>
       <a href="#Seccond-Part">Seccond part of the challenge</a>
       <ul>
-        <li><a href="#SettingUp">Setting the environment</a></li>
+        <li><a href="#Setting-Up">Setting the environment</a></li>
         <li><a href="#Test-Suit">Installation</a></li>
       </ul>
     <li><a href="#usage">Usage</a></li>
@@ -56,6 +56,12 @@ Critical Flows
 *<strong>Information Flow</strong>: This flow happens in both the directions and it is necessary for the proper functioning of all the activities in an E-Commerce model. Customers ask for information and likewise the retailer also requires information from the customer. Since, the process is basically online, this flow is important for a smooth transaction and seamless working of the e-commerce.
 
 ### Seccond Part
+
+### Setting-Up
+For this seccond part I'm assuming that you have an IDE and a pack manager and python installed on your computer. 
+With Pip installed you should install selenium modules:<br>
+```$ pip install selenium```<br> 
+In that way you will install selenium dependencies in your local machine and then you can use your shell to read the files.
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
