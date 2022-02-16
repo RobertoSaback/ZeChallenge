@@ -74,7 +74,7 @@ In that way you will install selenium dependencies in your local machine and the
 
 ## Test-Suit
 <br>
-To this part of the challenge I've created 5 test cases focusing on the <strong>Product Flow</strong> scenario. The idea behind this Test Cases is: firstly do a smoke test and checks if the crutial functions are running ok and after that, test the limits of the product selection flow always trying to exceed the limits, sometimes picking huges amounts of products or mixing them with diferent categories. 
+To this part of the challenge I've created 5 test cases focusing on the <strong>Product Flow</strong> scenario. The idea behind this Test Cases is: firstly do a smoke test and checks if the crutial functions are running ok and after that, test the limits of the product selection flow always trying to exceed the limits, sometimes picking huges amounts of products or mixing them with diferent categories. <br>
 
 | Test Case ID | TC Summary  | Prerequisites | Test Script | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- | --- |  --- |  --- |
