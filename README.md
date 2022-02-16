@@ -18,7 +18,7 @@
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Seccond part of the Challenge - Test Suit</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Last Considerations/a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Final Considerations</a>
   </p>
 </p>
 
