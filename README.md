@@ -50,7 +50,7 @@
 Critical Flows
 
 <br>
-  *<strong>Product flow</strong>: This flows refers to the movement of the goods from the supplier to the customer and it would be impossible without a product selection stage to complete the service. The product flow play a key role in moving products through this logistic chain.In fact logistics take the primary onus of an e-commerce entity. Efficiency and service usually reflects this flow as the greatest value for the company since then efficiency  creates a value to the customers , suppliers and stakeholders and it creates visibility into a company.
+  *<strong>Product flow</strong>: This flows refers to the movement of the goods from the supplier to the customer and it would be impossible without a product selection stage to complete the service. The product flow play a key role in moving products through this logistic chain.In fact logistics take the primary onus of an e-commerce entity. Efficiency and service usually reflects this flow as the greatest value for the company since then efficiency  creates a value to the customers , suppliers , stakeholders and it creates visibility into a company.
   <br><br>
   *<strong>Cash flow</strong>: Cash flow: The core idea behind every business is increase profits and value. For this reason a reliable cash flow ensures optimum user experience, consumer safety and fidelity to the future new customers. It ensure that the customer can trust on the company to share sensitive information and the company can trust that all information that comes from the client side are reliable. 
     <br><br>
