@@ -33,8 +33,8 @@
     <li>
       <a href="#Seccond-Part">Seccond part of the challenge</a>
       <ul>
-        <li><a href="#Test-Suit">Test suit</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#SettingUp">Setting the environment</a></li>
+        <li><a href="#Test-Suit">Installation</a></li>
       </ul>
     <li><a href="#usage">Usage</a></li>
 
