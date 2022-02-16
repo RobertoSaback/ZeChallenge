@@ -35,7 +35,7 @@
       <ul>
         <li><a href="#Setting-Up">Setting the environment</a></li>
         <li><a href="#Why-Python">Why Python</a></li>
-        <li><a href="#Test-Suit">Test Suit/a></li>
+        <li><a href="#Test-Suit">Test Suit</a></li>
       </ul>
     <li><a href="#Final-Considerations">Usage</a></li>
 
@@ -82,7 +82,7 @@ This section should list any major frameworks that you built your project using.
 
 dasfgf<br>
 
-### Final-Considerations
+## Final-Considerations
 
 A message to ze-engineering-code-challenge team,
 
