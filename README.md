@@ -55,18 +55,11 @@
 <!-- ABOUT THE PROJECT -->
 ## First Part 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Criticals Flow
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Critical flow n01
+  *<strong>Product flow</strong>: This flows refers to the movement of the goods from the supplier to the customer and it would be impossible without a product selection stage to complete the service. The product flow play a key role in moving products through this logistic chain.In fact logistics take the primary onus of an e-commerce entity. Efficiency and service usually reflects this flow as the greatest value for the company since then efficiency  creates a value to the customers , suppliers and stakeholders and it creates visibility into a company.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
