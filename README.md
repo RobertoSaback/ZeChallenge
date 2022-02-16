@@ -61,7 +61,15 @@ Critical Flows
 ### Setting-Up
 For this seccond part I'm assuming that you have an IDE and a pack manager and python installed on your computer. 
 With Pip installed you should install selenium modules:<br>
-```$ pip install selenium```<br> 
+1. Clone the repo
+   ```sh
+   git clone https://github.com/RobertoSaback/ZeChallenge.git
+   ```
+ 2. Install PIP packages
+   ```sh
+   $ pip install selenium
+   ```
+   <br> 
 In that way you will install selenium dependencies in your local machine and then you can use your shell to read the files.
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -87,19 +95,8 @@ This is an example of how to list things you need to use the software and how to
 
 ### Why-Python
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+dasfgf<br>
+
 ### Final-Considerations
 
 A message to ze-engineering-code-challenge team,
