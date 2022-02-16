@@ -76,7 +76,7 @@ In that way you will install selenium dependencies in your local machine and the
 
 | Test Case ID | TC Description | Prerequisites | Test Summary | Test Script | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- |  --- |  --- |  --- |  --- |
-| `TC001` | Verify if the user can select an item to the cart | * Have a valid account on Zé Delivery * Stay logged in |
+| [`TC001`]() | Verify if the user can select an item to the cart | * Have a valid account on Zé Delivery * Stay logged in |
 | `TC002` | Verify if bag icon can accept more than 3 characters |
 | `TC003` | Verify if discount are applied in products of same type |
 | `TC004` | Verify if discount are applied in products of different types |
