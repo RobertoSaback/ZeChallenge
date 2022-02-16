@@ -76,11 +76,11 @@ In that way you will install selenium dependencies in your local machine and the
 
 | Test Case ID | TC Description | Pre Condition | Test Data | Post Condition | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- |  --- |  --- |  --- |  --- |
-| `TC001` | Lista de todos os arquivos *modificados ou novos* |
-| `TC002` | Mostra as diferenças do arquivo que **não foram** preparadas |
-| `TC003` | Mostra as diferenças do arquivo que **não foram** preparadas |
-| `TC004` | Mostra as diferenças do arquivo que **não foram** preparadas |
-| `TC005` | Mostra as diferenças do arquivo que **não foram** preparadas |
+| `TC001` | Verify if the user can select an item to the cart|
+| `TC002` | Verify if bag icon can accept more than 3 characters |
+| `TC003` | Verify if discount are applied in products of same type |
+| `TC004` | Verify if discount are applied in products of different types |
+| `TC005` | Verify if the user can select items from different categories |
 
 ## Why-Python
 
