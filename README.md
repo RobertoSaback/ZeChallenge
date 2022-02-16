@@ -29,9 +29,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#First part of the Challenge">About The Project</a>
+      <a href="#First-part">First part of the challenge</a>
       <ul>
-        <li><a href="#Critical flux">Built With</a></li>
+        <li><a href="#seccond-part">Seccond part of the challenge</a></li>
       </ul>
     </li>
     <li>
@@ -53,7 +53,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## First Part 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
