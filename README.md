@@ -76,10 +76,10 @@ In that way you will install selenium dependencies in your local machine and the
 
 | Test Case ID | TC Description | Prerequisites | Test Summary | Test Script | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- |  --- |  --- |  --- |  --- |
-| [`TC001`]() | Verify if the user can select an item to the cart | * Have a valid account on Zé Delivery * Stay logged in |
-| `TC002` | Verify if bag icon can accept more than 3 characters |
-| `TC003` | Verify if discount are applied in products of same type |
-| `TC004` | Verify if discount are applied in products of different types |
+| [`TC001`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC001.py) | Verify if the user can select an item to the cart | * Have a valid account on Zé Delivery * Stay logged in |
+| [`TC002`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC002.py) | Verify if bag icon can accept more than 3 characters |
+| [`TC003`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC003.py) | Verify if discount are applied in products of same type |
+| [`TC004`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC004.py) | Verify if discount are applied in products of different types |
 | `TC005` | Verify if the user can select items from different categories |
 
 ## Why-Python
