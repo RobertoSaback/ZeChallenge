@@ -55,10 +55,14 @@
 <!-- ABOUT THE PROJECT -->
 ## First Part 
 
-Criticals Flow
+Critical Flows
 
 Critical flow n01
+<br>
   *<strong>Product flow</strong>: This flows refers to the movement of the goods from the supplier to the customer and it would be impossible without a product selection stage to complete the service. The product flow play a key role in moving products through this logistic chain.In fact logistics take the primary onus of an e-commerce entity. Efficiency and service usually reflects this flow as the greatest value for the company since then efficiency  creates a value to the customers , suppliers and stakeholders and it creates visibility into a company.
+  <br>
+  Critical flow n02<br>
+  *<strong>Cash flow</strong>:
 
 
 ### Built With
