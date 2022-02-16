@@ -11,14 +11,14 @@
   <p align="center">
     Roberto Saback - Quality Assurance 
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/RobertoSaback/ZeChallenge/find/master"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#First-part">First part of the Challenge</a>
     ·
     <a href="#Seccond-Part">Seccond part of the Challenge</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Final Considerations</a>
+    <a href="#Final-Considerations">Final Considerations</a>
   </p>
 </p>
 
