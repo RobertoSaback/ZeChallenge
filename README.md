@@ -1,8 +1,4 @@
 
-[![LinkedIn][https://www.linkedin.com/in/roberto-saback-52632446/]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -33,9 +29,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#First part of the Challenge">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Critical flux">Built With</a></li>
       </ul>
     </li>
     <li>
