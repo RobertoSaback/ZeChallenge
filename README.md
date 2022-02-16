@@ -34,8 +34,8 @@
       <a href="#Seccond-Part">Seccond part of the challenge</a>
       <ul>
         <li><a href="#Setting-Up">Setting the environment</a></li>
-        <li><a href="#Why-Python">Why Python</a></li>
         <li><a href="#Test-Suit">Test Suit</a></li>
+        <li><a href="#Why-Python">Why Python</a></li>
       </ul>
     <li><a href="#Final-Considerations">Usage</a></li>
 
@@ -71,11 +71,12 @@ With Pip installed you should install selenium modules:<br>
    ```
    <br> 
 In that way you will install selenium dependencies in your local machine and then you can use your shell to read the files.
+## Test-Suit
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+| Comando | Descrição |
+| --- | --- |
+| `git status` | Lista de todos os arquivos *modificados ou novos* |
+| `git diff` | Mostra as diferenças do arquivo que **não foram** preparadas |
 
 
 ## Why-Python
