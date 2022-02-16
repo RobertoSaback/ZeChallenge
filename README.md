@@ -61,11 +61,11 @@ Critical Flows
 ### Setting-Up
 For this seccond part I'm assuming that you have an IDE and a pack manager and python installed on your computer. 
 With Pip installed you should install selenium modules:<br>
-1. Clone the repo
+   1. Clone the repo
    ```sh
    git clone https://github.com/RobertoSaback/ZeChallenge.git
    ```
- 2. Install PIP packages
+   2. Install PIP packages
    ```sh
    $ pip install selenium
    ```
@@ -80,7 +80,12 @@ This section should list any major frameworks that you built your project using.
 
 ## Why-Python
 
-dasfgf<br>
+Python is object-oriented and functional. It lets programmers decide if functions or classes are better for the needs at hand. This is awesome for test automation because:<br>
+* stateless functions avoid side effects and 
+* Simple syntax for those functions make them readable. 
+* Matches very well with the command line, the entire test automation workflow can be driven from the command line
+* Easy to learn (looks like english)
+* Have a great active community behind creating libraries and support material everyday <br>
 
 ## Final-Considerations
 
