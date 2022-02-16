@@ -76,11 +76,11 @@ In that way you will install selenium dependencies in your local machine and the
 
 | Test Case ID | TC Summary  | Prerequisites | Test Script | Actual Result | Expected Result | Status |  
 | --- | --- | --- | --- | --- |  --- |  --- |
-| [`TC001`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC001.py) | Verify if the user can select an item to the cart |<ul> <li>* Have a valid account on Zé Delivery</li><li> * Stay logged in</li></ul> |
-| [`TC002`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC002.py) | Verify if bag icon can accept more than 3 characters |
-| [`TC003`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC003.py) | Verify if discount are applied in products of same type |
-| [`TC004`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC004.py) | Verify if discount are applied in products of different types |
-| [`TC005`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC005.py) | Verify if the user can select items from different categories |
+| [`TC001`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC001.py) | Verify if the user can select an item to the cart |<ul> <li>Have a valid account on Zé Delivery</li><li> Stay logged in</li></ul> |
+| [`TC002`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC002.py) | Verify if bag icon can accept more than 3 characters |<ul> <li>Have a valid account on Zé Delivery</li><li> Stay logged in</li></ul> |
+| [`TC003`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC003.py) | Verify if discount are applied in products of same type |<ul> <li>Have a valid account on Zé Delivery</li><li> Stay logged in</li></ul> |
+| [`TC004`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC004.py) | Verify if discount are applied in products of different types |<ul> <li>Have a valid account on Zé Delivery</li><li> Stay logged in</li></ul> |
+| [`TC005`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC005.py) | Verify if the user can select items from different categories |<ul> <li>Have a valid account on Zé Delivery</li><li> Stay logged in</li></ul> |
 
 ## Why Python
 
