@@ -71,10 +71,11 @@ With Pip installed you should install selenium modules:<br>
    ```
    <br> 
 In that way you will install selenium dependencies in your local machine and then you can use your shell to read the files.
+
 ## Test-Suit
 
-| Comando | Descrição |
-| --- | --- |
+| Test Case ID | TC Description | Pre Condition | Test Data | Post Condition | Actual Result | Expected Result | Status |  
+| --- | --- | --- | --- |  --- |  --- |  --- |  --- |
 | `git status` | Lista de todos os arquivos *modificados ou novos* |
 | `git diff` | Mostra as diferenças do arquivo que **não foram** preparadas |
 
@@ -82,7 +83,7 @@ In that way you will install selenium dependencies in your local machine and the
 ## Why-Python
 
 Python is object-oriented and functional. It lets programmers decide if functions or classes are better for the needs at hand. This is awesome for test automation because:<br>
-* stateless functions avoid side effects and 
+* stateless functions avoid side effects 
 * Simple syntax for those functions make them readable. 
 * Matches very well with the command line, the entire test automation workflow can be driven from the command line
 * Easy to learn (looks like english)
