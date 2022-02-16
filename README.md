@@ -34,10 +34,10 @@
       <a href="#Seccond-Part">Seccond part of the challenge</a>
       <ul>
         <li><a href="#Setting-Up">Setting the environment</a></li>
-        <li><a href="#Test-Suit">Test Suit</a></li>
-        <li><a href="#Why-Python">Why Python</a></li>
+        <li><a href="#Test Suit">Test Suit</a></li>
+        <li><a href="#Why Python">Why Python</a></li>
       </ul>
-    <li><a href="#Final-Considerations">Usage</a></li>
+    <li><a href="#Final-Considerations">Final Considerations</a></li>
 
   </ol>
 </details>
@@ -80,9 +80,9 @@ In that way you will install selenium dependencies in your local machine and the
 | [`TC002`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC002.py) | Verify if bag icon can accept more than 3 characters |
 | [`TC003`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC003.py) | Verify if discount are applied in products of same type |
 | [`TC004`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC004.py) | Verify if discount are applied in products of different types |
-| `TC005` | Verify if the user can select items from different categories |
+| [`TC005`](https://github.com/RobertoSaback/ZeChallenge/blob/master/TC005.py) | Verify if the user can select items from different categories |
 
-## Why-Python
+## Why Python
 
 Python is object-oriented and functional. It lets programmers decide if functions or classes are better for the needs at hand. This is awesome for test automation because:<br>
 * stateless functions avoid side effects 
@@ -91,7 +91,7 @@ Python is object-oriented and functional. It lets programmers decide if function
 * Easy to learn (looks like english)
 * Have a great active community behind creating libraries and support material everyday <br>
 
-## Final-Considerations
+## Final Considerations
 
 A message to ze-engineering-code-challenge team,
 
